@@ -1,0 +1,6 @@
+C:\Users\joedm\Documents\SharpDevelop Projects\Activity 3\Activity 3\bin\Debug\Activity 3.exe.config
+C:\Users\joedm\Documents\SharpDevelop Projects\Activity 3\Activity 3\bin\Debug\Activity 3.exe
+C:\Users\joedm\Documents\SharpDevelop Projects\Activity 3\Activity 3\bin\Debug\Activity 3.pdb
+C:\Users\joedm\Documents\SharpDevelop Projects\Activity 3\Activity 3\obj\Debug\Activity 3.csprojResolveAssemblyReference.cache
+C:\Users\joedm\Documents\SharpDevelop Projects\Activity 3\Activity 3\obj\Debug\Activity 3.exe
+C:\Users\joedm\Documents\SharpDevelop Projects\Activity 3\Activity 3\obj\Debug\Activity 3.pdb
