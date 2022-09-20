@@ -1,0 +1,6 @@
+C:\Users\joedm\Documents\SharpDevelop Projects\odd or even\odd or even\bin\Debug\odd or even.exe.config
+C:\Users\joedm\Documents\SharpDevelop Projects\odd or even\odd or even\bin\Debug\odd or even.exe
+C:\Users\joedm\Documents\SharpDevelop Projects\odd or even\odd or even\bin\Debug\odd or even.pdb
+C:\Users\joedm\Documents\SharpDevelop Projects\odd or even\odd or even\obj\Debug\odd or even.csprojResolveAssemblyReference.cache
+C:\Users\joedm\Documents\SharpDevelop Projects\odd or even\odd or even\obj\Debug\odd or even.exe
+C:\Users\joedm\Documents\SharpDevelop Projects\odd or even\odd or even\obj\Debug\odd or even.pdb
