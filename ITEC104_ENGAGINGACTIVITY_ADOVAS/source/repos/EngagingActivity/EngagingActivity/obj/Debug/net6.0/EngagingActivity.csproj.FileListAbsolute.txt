@@ -1,0 +1,15 @@
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\obj\Debug\net6.0\EngagingActivity.csproj.AssemblyReference.cache
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\obj\Debug\net6.0\EngagingActivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\obj\Debug\net6.0\EngagingActivity.AssemblyInfoInputs.cache
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\obj\Debug\net6.0\EngagingActivity.AssemblyInfo.cs
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\obj\Debug\net6.0\EngagingActivity.csproj.CoreCompileInputs.cache
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\bin\Debug\net6.0\EngagingActivity.exe
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\bin\Debug\net6.0\EngagingActivity.deps.json
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\bin\Debug\net6.0\EngagingActivity.runtimeconfig.json
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\bin\Debug\net6.0\EngagingActivity.dll
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\bin\Debug\net6.0\EngagingActivity.pdb
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\obj\Debug\net6.0\EngagingActivity.dll
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\obj\Debug\net6.0\refint\EngagingActivity.dll
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\obj\Debug\net6.0\EngagingActivity.pdb
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\obj\Debug\net6.0\EngagingActivity.genruntimeconfig.cache
+C:\Users\Prime_05\source\repos\EngagingActivity\EngagingActivity\obj\Debug\net6.0\ref\EngagingActivity.dll
