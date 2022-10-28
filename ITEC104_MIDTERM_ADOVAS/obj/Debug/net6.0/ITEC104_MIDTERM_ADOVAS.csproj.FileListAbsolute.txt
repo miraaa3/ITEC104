@@ -1,0 +1,15 @@
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\obj\Debug\net6.0\ITEC104_MIDTERM_ADOVAS.csproj.AssemblyReference.cache
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\obj\Debug\net6.0\ITEC104_MIDTERM_ADOVAS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\obj\Debug\net6.0\ITEC104_MIDTERM_ADOVAS.AssemblyInfoInputs.cache
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\obj\Debug\net6.0\ITEC104_MIDTERM_ADOVAS.AssemblyInfo.cs
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\bin\Debug\net6.0\ITEC104_MIDTERM_ADOVAS.exe
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\bin\Debug\net6.0\ITEC104_MIDTERM_ADOVAS.deps.json
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\bin\Debug\net6.0\ITEC104_MIDTERM_ADOVAS.runtimeconfig.json
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\bin\Debug\net6.0\ITEC104_MIDTERM_ADOVAS.dll
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\bin\Debug\net6.0\ITEC104_MIDTERM_ADOVAS.pdb
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\obj\Debug\net6.0\ITEC104_MIDTERM_ADOVAS.csproj.CoreCompileInputs.cache
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\obj\Debug\net6.0\ITEC104_MIDTERM_ADOVAS.dll
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\obj\Debug\net6.0\refint\ITEC104_MIDTERM_ADOVAS.dll
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\obj\Debug\net6.0\ITEC104_MIDTERM_ADOVAS.pdb
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\obj\Debug\net6.0\ITEC104_MIDTERM_ADOVAS.genruntimeconfig.cache
+F:\Users\Miracle\Documents\BSCS\ITEC104_MIDTERM_ADOVAS\obj\Debug\net6.0\ref\ITEC104_MIDTERM_ADOVAS.dll
