@@ -1,0 +1,8 @@
+C:\Users\Prime_05\Downloads\ITEC104_FINALS\Finals-TREES\bin\Debug\Finals-TREES.exe.config
+C:\Users\Prime_05\Downloads\ITEC104_FINALS\Finals-TREES\bin\Debug\Finals-TREES.exe
+C:\Users\Prime_05\Downloads\ITEC104_FINALS\Finals-TREES\bin\Debug\Finals-TREES.pdb
+C:\Users\Prime_05\Downloads\ITEC104_FINALS\Finals-TREES\obj\Debug\Finals-TREES.csproj.AssemblyReference.cache
+C:\Users\Prime_05\Downloads\ITEC104_FINALS\Finals-TREES\obj\Debug\Finals-TREES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Prime_05\Downloads\ITEC104_FINALS\Finals-TREES\obj\Debug\Finals-TREES.csproj.CoreCompileInputs.cache
+C:\Users\Prime_05\Downloads\ITEC104_FINALS\Finals-TREES\obj\Debug\Finals-TREES.exe
+C:\Users\Prime_05\Downloads\ITEC104_FINALS\Finals-TREES\obj\Debug\Finals-TREES.pdb
